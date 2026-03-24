@@ -2,10 +2,10 @@
 import tkinter as tk
 from tkinter import messagebox
 from tkinter import ttk
-from tads_tp_int.tadAutos import *
-from tads_tp_int.tadCochera import *
-from tads_tp_int.tadColaAux import*
-from tads_tp_int.tadColaTorres import*
+from tads.tadAutos import *
+from tads.tadCochera import *
+from tads.tadColaAux import*
+from tads.tadColaTorres import*
 from datetime import datetime, date, time, timedelta
 
 # Crea instancias de los TADS Compuestos Cochera y Egreso y Cola.
