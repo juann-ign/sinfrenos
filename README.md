@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![UI: Tkinter](https://img.shields.io/badge/UI-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
 
-**CocheraInterfaz** es una solución integral para la gestión operativa de estacionamientos multi-torre. El sistema permite el control total sobre el ciclo de vida de un vehículo dentro del establecimiento: desde el ingreso alfanumérico validado hasta el cálculo complejo de tarifas con descuentos dinámicos y análisis de horas pico.
+**sinfreno** es una solución integral para la gestión operativa de estacionamientos multi-torre. El sistema permite el control total sobre el ciclo de vida de un vehículo dentro del establecimiento: desde el ingreso alfanumérico validado hasta el cálculo complejo de tarifas con descuentos dinámicos y análisis de horas pico.
 
 ---
 
